@@ -85,4 +85,4 @@ OceanIQ demonstrates how AI and web development can be used to support environme
 ---
 
 ## 📌 Author
-Developed by **Bongimusa Khoza & Team**
+Developed by **Joyce Sellwane Mosia & Team**
