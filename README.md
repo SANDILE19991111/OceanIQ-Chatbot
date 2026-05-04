@@ -80,7 +80,7 @@ Full documentation is available in the `/docs` folder.
 ---
 
 ## 🏁 Conclusion
-OceanIQ demonstrates how AI and web development can be used to support environmental education and sustainability.
+OceanIQ chatbot demonstrates how AI and web development can be used to support environmental education and sustainability.
 
 ---
 
