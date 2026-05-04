@@ -1,7 +1,7 @@
 # 🌊 OceanIQ – Blue Economy Assistant Chatbot
 
 ## 📌 Overview
-OceanIQ is an AI-powered chatbot designed to educate users about the **Blue Economy**, marine life, sustainability, and ocean-related topics.
+OceanIQ chatbot is an AI-powered chatbot designed to educate users about the **Blue Economy**, marine life, sustainability, and ocean-related topics.
 
 It provides role-based responses for fishers, consumers, environmentalists, government officials, and the general public.
 
