@@ -16,9 +16,9 @@ This project was developed as a **group collaboration**.
 
 ## 👥 Group Members
 - **Bongimusa Sandile Khoza** – Team Lead, Frontend Development, Testing, Deployment  
-- **Mpumi** – Research & Documentation  
-- **Joyce** – System Design & UML  
-- **Zimkhitha** – AI Prompt Engineering & Government Research  
+- **Nompumelelo Nzama** – Research & Documentation  
+- **Joyce Sellwane Mosia** – System Design & UML  
+- **Zimkhitha Bentsa** – AI Prompt Engineering & Government Research  
 
 ---
 
@@ -85,4 +85,4 @@ OceanIQ demonstrates how AI and web development can be used to support environme
 ---
 
 ## 📌 Author
-Developed by **Joyce Sellwane Mosia & Team**
+Developed by **Bongimusa Khoza & Team**
