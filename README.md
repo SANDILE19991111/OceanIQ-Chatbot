@@ -40,7 +40,8 @@ This project was developed as a **group collaboration**.
 - AI Prompt Engineering  
 - Claude AI  
 - Visual Studio Code  
-- GitHub Pages (Deployment)  
+- GitHub Pages (Deployment)
+- Grog for API
 
 ---
 
